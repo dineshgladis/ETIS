@@ -1,2 +1,2 @@
 # Websites
-Common repository for websites
+|A simple site using Bootstrap.
